@@ -18,15 +18,20 @@
 
 ## Steps:
 #### 1. Data Exploration and Cleaning:
-- Record Count
-- Customer Count
-- Category Count
-- Null Count
-### 2.Data Analysis and Findings
+- **Record Count** : Determine the total_number of records in all the data_set.
+- **Customer Count**: Find out how many unique customers in the data_set.
+- **Category Count**: Identifies the different categories and their contribution on  Total_Sales.
+- **Price discrepancies**: Identify Price_discrepancies  of products on different table and Correct it 
+- **Null Count**: Identify the Null_values in different data_sets and handle it properly .
+-  
+### 2.Data Analysis 
+
 
 ### 3. Findings
-- Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
-- High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- **Customer Insights :** The analysis identifies the top-spending customers and the most popular product categories.
+- **High-Value Transactions:** Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- **Product Performance :** Analyze the Product performance based on the total_sales which help us identify product_catefory which needed to be promote
+- **Inventory Management:**
     
 ### Dataset Used
 <a href="https://github.com/HeyAbhiG/SQL-Project-on-Retail-Analytics/blob/main/customer_profiles.csv">Customer_Profiles<a/>
