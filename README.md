@@ -31,7 +31,7 @@
 - **Customer Insights :**	Find out customer who repeating purchase and spending most in our site/stores so we can provide
                           them discount coupon and better service as their our most loyal customers. 
 - **High-Value Transactions:** Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Product Performance :** Analyze the Product performance based on the total_sales which help us identify product_catefory which needed to be promote
+- **Product Performance :** Analyze the Product performance based on the total_sales which help us identify product_category which needed to be promote.
 - **Inventory Management:** After analysing data set, we get to know the products which is giving us highest revenue and most in demand for better inventory management.
 - 	Home and Kitchen category contribute highest number both in terms of  total_sales and unit_sold.
     
